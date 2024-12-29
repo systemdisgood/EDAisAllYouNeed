@@ -1,0 +1,15 @@
+html, body {
+    margin: 0 !important;
+    padding: 0 !important;
+    height: 100%;
+    overflow: hidden;
+}
+
+.main_canvas_div{
+    display: flex;
+    flex-direction: column;
+}
+#main_canvas{
+    border: 1px solid black;
+
+}   
